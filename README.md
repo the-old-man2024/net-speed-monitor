@@ -1,2 +1,2 @@
 Download it from here-
-https://drive.google.com/drive/folders/1Keuwf9yGOd5Y5OSt805-LmGK_rikR35Z?usp=sharing
+https://github.com/the-old-man2024/net-speed-monitor/releases/tag/v1.0.0
